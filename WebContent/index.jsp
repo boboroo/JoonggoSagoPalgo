@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>중고 사고 팔고</title>
 </head>
 
 <frameset rows="80,*" cols="*" frameborder="NO" border="0" framespacing="0">

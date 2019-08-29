@@ -8,7 +8,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>중고 사고 팔고</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
@@ -18,7 +18,7 @@
  
 <table width="100%" height="50" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="800" height="30"><h2>Model2 MVC Shop</h2></td>
+    <td width="800" height="30"><h2>중고 사고 팔고</h2></td>
     <td height="30" >&nbsp;</td>
   </tr>
   <tr>
